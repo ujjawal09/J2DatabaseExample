@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-H2-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ujjawal
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_275
+Implementation-URL: https://spring.io/projects/spring-boot/spring-H2-d
+ emo
+Created-By: Maven Integration for Eclipse
+
